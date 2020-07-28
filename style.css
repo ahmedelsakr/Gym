@@ -1,0 +1,116 @@
+body{
+    overflow-x:hidden;
+    font-family:"titillium web";
+    background-color:black;
+}
+/*.d1{
+    font-size:2.1em;
+    margin-top:15px;
+}
+.icon{
+    font-size:1.4em;
+}
+.ul1{
+    font-size:1.2em;
+}
+.ul1 .a1:hover{
+    text-decoration:underline;
+}*/
+@media only screen and (width:320px){
+    .heading1{
+        font-size:14px;
+        margin-top:-130px;
+    }
+    .paragraph1{
+        font-size:8px;;
+    }
+    .heading2{
+        font-size:20px;
+    }
+    .paragraph2{
+        font-size:12px;
+    }
+}
+
+@media (max-width:414px){
+    .heading1{
+        font-size:20px;
+        margin-top:20px;
+    }
+    .paragraph1{
+        font-size:10px;
+    }
+    .Div1{
+        font-size:10px;
+    }
+}
+.d2{
+    position:relative;
+    top:50px;
+}
+.h1{
+    font-size:4em;
+    position:relative;
+    top:140px;
+}
+.row1{
+    position:relative;
+    top:200px;
+}
+.img2{
+    margin-bottom:30px;
+}
+.row2{
+    position:relative;
+    top:230px;
+}
+.img2 , .img3{
+    transition:transform 2s;
+    cursor:pointer;
+}
+.img2:hover , .img3:hover{
+    transform:scale(1.05,1.05);
+    opacity:0.8;
+}
+.btn1{
+    position:relative;
+    top:280px;
+}
+.D{
+    position:relative;
+    top:400px;
+    height:22em;
+}
+.h5{
+    position:relative;
+    top:100px;
+}
+.p1{
+    position:relative;
+    top:110px;
+    font-size:1.6em;
+}
+.img4{
+    position:relative;
+    top:400px;
+    transition:transform 2s;
+    cursor:pointer;
+}
+.img4:hover{
+    transform:scale(1.05,1.05);
+    opacity:0.8;
+}
+.H1{
+    position:relative;
+    top:500px;
+}
+.d3{
+    position:relative;
+    top:550px;
+    margin-bottom:60px;
+}
+.ul2{
+    position:relative;
+    top:500px;
+    margin-bottom:40px;
+}
